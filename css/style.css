@@ -1,0 +1,119 @@
+/* Install Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background: #000;
+}
+
+header {
+    font-family: 'Share Tech Mono', monospace
+}
+
+header .logo {
+    text-align: center;
+    background: #000;
+    color: crimson;
+    text-transform: uppercase;
+    letter-spacing: .5rem;
+    transition: 1s;
+    padding: 50px 0;
+}
+
+.logo:hover{
+    letter-spacing: 1rem;
+    cursor: pointer;
+}
+
+.cycleBackground h2 {
+    font-size: 4rem;
+    color: #f1c40f;
+    text-transform: uppercase;
+    padding: 110px 0 0 110px;
+    transition: 1s;
+}
+
+.cycleBackground h2:hover {
+    letter-spacing: 2rem;
+    cursor: pointer;
+    color: #fff;
+}
+
+.cycleBackground {
+    width: 100%;
+    height:50vh;
+}
+
+.cycleInfo {
+    margin: 50px 110px;
+    text-align: justify;
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+.cycle-1 {
+    background: url(../images/andrik-langfield-JXIc86xKJRM-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-2 {
+    background: url(../images/carl-nenzen-loven-igKjieyjcko-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-3 {
+    background: url(../images/jasinthan-yoganathan-fpmx2kxEq3k-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-4 {
+    background: url(../images/jim-maclachlan-MEYBEuP_Hj4-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-5 {
+    background: url(../images/jonny-clow-dxxjzW6e18Q-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-6 {
+    background: url(../images/mpho-mojapelo-rumn3j2jTa4-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-7 {
+    background: url(../images/nielsen-arenas-ia7qI7kNoEY-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-8 {
+    background: url(../images/robert-bye-tG36rvCeqng-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-9 {
+    background: url(../images/seyi-ariyo-pq8hvbowUV0-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-10 {
+    background: url(../images/sole-bicycles-JK6lD_y3aDg-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-11 {
+    background: url(../images/stesson-bezuidenhout-MabODzq9TIc-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-12 {
+    background: url(../images/thomas-jarrand-t5VZKeveQwI-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-13 {
+    background: url(../images/viktor-bystrov-dpfp1k2OSKk-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-14 {
+    background: url(../images/andrik-langfield-JXIc86xKJRM-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.cycle-15 {
+    background: url(../images/carl-nenzen-loven-igKjieyjcko-unsplash.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+}
